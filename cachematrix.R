@@ -1,5 +1,5 @@
 ##==================================================================
-## Coursera R Programming : Programming Assignment 2 (caching)
+## Coursera R Programming : Programming Assignment 2 (Lexical Scoping)
 ## This script contains two functions makeCacheMatrix and cacheSolve 
 ## to compute and cache the inverse of a matrix
 ##==================================================================
